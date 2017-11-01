@@ -15,7 +15,7 @@ ReactDOM.render(
     <TwitterMessage maxChars={140} />
 
     <h1><pre>LoginForm</pre></h1>
-    <LoginForm onSubmit={login} />
+    <LoginForm onSubmit={login}/>
 
     <h1><pre>PoemWriter</pre></h1>
     <PoemWriter />
